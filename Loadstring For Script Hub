@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ultra34/Ultra34-s-Script-Hub/main/Gui.lua"))()

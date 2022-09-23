@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Nathan's Script Hub", "BloodTheme")
+local Window = Library.CreateLib("Ultra34's Script Hub", "BloodTheme")
 
 -- Unnamed-ESP
 local Main = Window:NewTab("Unnamed-ESP")
